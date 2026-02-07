@@ -1,0 +1,13 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/scrape/route.js")
+R.c("server/chunks/ca424_@vercel_oidc_dist_c9b9d0c3._.js")
+R.c("server/chunks/ca424_next_dist_b3f459cf._.js")
+R.c("server/chunks/ca424_@opentelemetry_api_build_esm_184331c1._.js")
+R.c("server/chunks/ca424_zod_c8e0e74c._.js")
+R.c("server/chunks/ca424_@ai-sdk_google_dist_index_mjs_e6266007._.js")
+R.c("server/chunks/ca424_@ai-sdk_openai_dist_index_mjs_d9df56e4._.js")
+R.c("server/chunks/ca424_ai_dist_index_mjs_2438ee0a._.js")
+R.c("server/chunks/[root-of-the-server]__d2f8c641._.js")
+R.c("server/chunks/[root-of-the-server]__1eaad3f5._.js")
+R.c("server/chunks/80b94_professorlist_web__next-internal_server_app_api_scrape_route_actions_3ac3265d.js")
+R.m("[project]/Documents/professorlist/web/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Documents/professorlist/web/app/api/scrape/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/Documents/professorlist/web/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/Documents/professorlist/web/app/api/scrape/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

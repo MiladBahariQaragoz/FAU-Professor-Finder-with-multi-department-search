@@ -1,0 +1,5 @@
+{
+  "/api/ollama/models/route": "app/api/ollama/models/route.js",
+  "/api/scrape/route": "app/api/scrape/route.js",
+  "/page": "app/page.js"
+}

@@ -1,0 +1,44 @@
+[00:00:04.732] Server  LOG     ✓ Ready in 3.4s
+[00:00:28.625] Server  LOG     ○ Compiling / ...
+[00:00:32.365] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:35.570] Server  ERROR   Processing error: AI_APICallError: The model `llama3-70b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.
+[00:15:47.501] Server  LOG     ✓ Compiled in 42ms
+[00:15:49.475] Server  LOG     ✓ Compiled in 34ms
+[00:16:01.660] Server  LOG     ✓ Compiled in 30ms
+[00:33:05.104] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:08.793] Server  ERROR   Error fetching Ollama models: TypeError: fetch failed
+[01:20:19.741] Server  LOG     ✓ Compiled in 249ms
+[01:20:42.752] Server  LOG     ✓ Compiled in 94ms
+[01:20:45.014] Server  LOG     ✓ Compiled in 631ms
+[01:21:24.118] Server  LOG     ✓ Compiled in 170ms
+[01:22:41.100] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:24:09.306] Server  ERROR   Processing error: AI_RetryError: Failed after 3 attempts. Last error: Cannot connect to API: Headers Timeout Error
+[01:25:44.189] Server  LOG     ✓ Compiled in 81ms
+[01:25:46.236] Server  LOG     ✓ Compiled in 78ms
+[01:25:48.175] Server  LOG     ✓ Compiled in 44ms
+[01:25:50.295] Server  LOG     ✓ Compiled in 86ms
+[01:25:52.287] Server  LOG     ✓ Compiled in 71ms
+[01:25:54.359] Server  LOG     ✓ Compiled in 53ms
+[01:25:56.364] Server  LOG     ✓ Compiled in 31ms
+[01:28:33.279] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:28:58.665] Server  ERROR   Error analyzing Franziska Mathis-Ullrich: TypeError [ERR_INVALID_STATE]: Invalid state: Controller is already closed
+[01:28:58.671] Server  ERROR   Streaming error: TypeError [ERR_INVALID_STATE]: Invalid state: Controller is already closed
+[01:39:45.326] Server  LOG     ✓ Compiled in 40ms
+[01:39:45.687] Browser ERROR   uncaughtError: ReferenceError: department is not defined
+[01:39:46.759] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:39:46.991] Server  ERROR   ⨯ ReferenceError: department is not defined
+[01:39:47.011] Server  LOG     ✓ Compiled in 28ms
+[01:39:47.223] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:47.694] Browser ERROR   uncaughtError: ReferenceError: department is not defined
+[01:40:07.386] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:40:07.595] Server  LOG     ✓ Compiled in 42ms
+[01:40:07.804] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:40:32.825] Server  LOG     ✓ Compiled in 60ms
+[01:40:37.463] Server  LOG     ✓ Compiled in 35ms
+[01:40:38.877] Server  LOG     ✓ Compiled in 32ms
+[01:42:49.775] Server  LOG     ✓ Compiled in 37ms
+[01:43:28.811] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:43:50.781] Server  ERROR   Processing error: Error: net::ERR_NAME_NOT_RESOLVED at https://www.mat.tf.fau.de/department/lehrstuehle/
+[01:45:27.849] Server  ERROR   Processing error: Error: net::ERR_NAME_NOT_RESOLVED at https://www.ee.tf.fau.de/department/lehrstuehle/
+[01:52:32.698] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'status')
+[01:58:08.747] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
